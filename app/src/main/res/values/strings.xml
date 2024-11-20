@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmartixTest</string>
+    <string name="title_activity_list_jokes">ListJokesActivity</string>
+    <string name="network_error">"Sorry… Try again later.</string>
+    <string name="random_joke">Random joke</string>
+    <string name="view_list_jokes">View list jokes</string>
+</resources>
